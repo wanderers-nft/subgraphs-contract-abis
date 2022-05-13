@@ -1,0 +1,22 @@
+{
+  "name": "@wanderers-nft/subgraphs-contract-abis",
+  "version": "1.0.0",
+  "description": "Contract ABIs for Wanderverse contracts",
+  "author": "Wanderers <hello@wanderers.ai>",
+  "main": "index.js",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wanderers-nft/subgraphs-contract-abis.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wanderers-nft/subgraphs-contract-abis"
+  },
+  "homepage": "https://github.com/wanderers-nft/subgraphs-contract-abis#readme"
+}
