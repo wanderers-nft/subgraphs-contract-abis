@@ -1,6 +1,6 @@
 {
   "name": "@wanderers/subgraphs-contract-abis",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Contract ABIs for Wanderverse contracts",
   "author": "Wanderers <hello@wanderers.ai>",
   "main": "index.js",
